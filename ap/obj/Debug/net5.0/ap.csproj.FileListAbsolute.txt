@@ -1,0 +1,16 @@
+K:\ap\ap\obj\Debug\net5.0\ap.csproj.AssemblyReference.cache
+K:\ap\ap\obj\Debug\net5.0\ap.GeneratedMSBuildEditorConfig.editorconfig
+K:\ap\ap\obj\Debug\net5.0\ap.AssemblyInfoInputs.cache
+K:\ap\ap\obj\Debug\net5.0\ap.AssemblyInfo.cs
+K:\ap\ap\obj\Debug\net5.0\ap.csproj.CoreCompileInputs.cache
+K:\ap\ap\bin\Debug\net5.0\ap.exe
+K:\ap\ap\bin\Debug\net5.0\ap.deps.json
+K:\ap\ap\bin\Debug\net5.0\ap.runtimeconfig.json
+K:\ap\ap\bin\Debug\net5.0\ap.runtimeconfig.dev.json
+K:\ap\ap\bin\Debug\net5.0\ap.dll
+K:\ap\ap\bin\Debug\net5.0\ref\ap.dll
+K:\ap\ap\bin\Debug\net5.0\ap.pdb
+K:\ap\ap\obj\Debug\net5.0\ap.dll
+K:\ap\ap\obj\Debug\net5.0\ref\ap.dll
+K:\ap\ap\obj\Debug\net5.0\ap.pdb
+K:\ap\ap\obj\Debug\net5.0\ap.genruntimeconfig.cache
